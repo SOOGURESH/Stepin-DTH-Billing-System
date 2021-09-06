@@ -1,5 +1,6 @@
 SRC = main.c\
-src/operations.c
+src/operations.c\
+src/unity.c
 INC = inc
 all.exe : $(SRC) 
 	gcc  $^ -I$(INC) -o $@
