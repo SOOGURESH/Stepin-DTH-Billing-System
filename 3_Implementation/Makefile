@@ -1,7 +1,8 @@
-SRC = main.c operations.c
-INC = fun.h struct.h
+SRC = main.c\
+src/operations.c
+INC = inc
 all.exe : $(SRC) 
-	gcc  $^ -o $@
+	gcc  $^ -I$(INC) -o $@
 run : all.exe
 	.\all.exe
 clean: 	
