@@ -33,6 +33,6 @@ Following features are added in our DTH Billing System
 
 **When:** There was problem of storing data manually but advancement in technologies helped in storing data and accessing it easily.
 
-**Where:** This project can be used for Dth billing.
+**Where:** This project can be used for DTH Billing.
 
 **How:** The inconvinience is caused in storing data manually and accessing it. Digitally storing data will be helpful in accessing data easily and modifying it.
