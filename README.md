@@ -27,5 +27,5 @@ Folder               | Description
 
 ## Integrated Tools to GitHub
 *  [Codacy](https://www.codacy.com/)
-=======
+
 [![C/C++ CI UnitTesting](https://github.com/SOOGURESH/Stepin-DTH-Billing-System/actions/workflows/c-cpp_unit.yml/badge.svg)](https://github.com/SOOGURESH/Stepin-DTH-Billing-System/actions/workflows/c-cpp_unit.yml)
