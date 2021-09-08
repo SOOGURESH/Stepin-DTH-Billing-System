@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<string.h>
+#include<ctype.h>
 //#include<conio.h>
 #include<ctype.h>
 //#include<windows.h>

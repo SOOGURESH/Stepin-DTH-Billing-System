@@ -1,7 +1,8 @@
 #include<stdio.h>
+#include<string.h>
 #include<ctype.h>
 #include<stdlib.h>
-#include "fun.h""
+#include "fun.h"
 #include "struct.h"
 void deleterecords()
 {
