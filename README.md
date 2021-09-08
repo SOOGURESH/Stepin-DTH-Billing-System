@@ -28,6 +28,6 @@ Folder               | Description
 
 
 ## Integrated Tools to GitHub
-*  [Codacy](https://www.codacy.com/)
+* [Codacy](https://www.codacy.com/)
 
 
