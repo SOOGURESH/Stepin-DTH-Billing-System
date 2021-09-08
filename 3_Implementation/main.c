@@ -1,21 +1,24 @@
 #include<stdio.h>
 #include<string.h>
-#include<ctype.h>
-//#include<conio.h>
-#include<ctype.h>
-//#include<windows.h>
+#include<conio.h>
+#include<windows.h>
 #include<stdlib.h>
 #include"struct.h"
 #include"fun.h"
+void addrecords();
+void deleterecords();
+void searchrecords();
+void listrecords();
+void payment();
+void modifyrecords();
+char get;
 
 int main()
 {	int password;
 	int smartcardnumber;
 	char choice;
 
-
-
-	system("cls");
+    system("cls");
 
 	printf("\n\n\n\n\n\n\n\n\n**************************************************************");
 	printf("\n\t\t------WELCOME TO THE DTH BILLING MANAGEMENT SYSTEM---");
@@ -61,3 +64,4 @@ int main()
 		}
 	}
 }
+
