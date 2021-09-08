@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<string.h>
 #include<ctype.h>
-#include<conio.h>
+//#include<conio.h>
 #include<ctype.h>
-#include<windows.h>
+//#include<windows.h>
 #include<stdlib.h>
 #include"struct.h"
 #include"fun.h"

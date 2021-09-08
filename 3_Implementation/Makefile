@@ -9,3 +9,4 @@ run : all.exe
 
 clean:
 	del all.exe
+
