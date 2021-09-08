@@ -1,9 +1,7 @@
 <<<<<<< HEAD
 # stepin-"DTH Billing System"
 
-# Code-inspector Badge
 =======
-# Stepin - "DTH Billing System"
  
 #  Badges
 
