@@ -26,8 +26,6 @@ int main()
   return UNITY_END();
 }
 
-
-
 void test_deleterecords(void)
 {
     char smartcardnumber[20]="KHY123456";
